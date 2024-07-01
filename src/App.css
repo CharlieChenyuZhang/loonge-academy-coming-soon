@@ -80,3 +80,20 @@ p {
   width: 100%;
   height: 100%;
 }
+
+.links {
+  margin-top: 20px;
+}
+
+.icon-link {
+  display: inline-block;
+  margin: 20px;
+  color: #333;
+  font-size: 1.5em;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.icon-link:hover {
+  color: rgb(164, 16, 52);
+}
