@@ -11,9 +11,10 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="relative z-[-1] flex place-items-center before:absolute before:h-[400px] before:w-[400px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-[#A51C30] before:to-transparent before:blur-3xl before:content-[''] after:absolute after:-z-20 after:h-[400px] after:w-[400px] after:translate-x-1/3 after:bg-gradient-radial after:from-[#A51C30] after:via-[#A51C30] after:to-transparent after:blur-3xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-[#A51C30] before:dark:opacity-20 after:dark:from-[#A51C30] after:dark:via-[#A51C30] after:dark:opacity-50 sm:before:w-[400px] sm:after:w-[400px] before:lg:h-[400px]">
-        <div className="text-white text-5xl font-bold">Loong.Academy</div>
-      </div>
+      <div className="relative z-[-1] flex place-items-center justify-start pl-20 before:absolute before:h-[500px] before:w-[500px] before:-translate-x-[80%] before:rounded-full before:bg-gradient-radial before:from-[#A51C30] before:to-transparent before:blur-3xl before:content-[''] after:absolute after:-z-20 after:h-[500px] after:w-[500px] after:translate-x-[0%] after:bg-gradient-radial after:from-[#A51C30] after:via-[#A51C30] after:to-transparent after:blur-3xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-[#A51C30] before:dark:opacity-20 after:dark:from-[#A51C30] after:dark:via-[#A51C30] after:dark:opacity-50 sm:before:w-[500px] sm:after:w-[500px] before:lg:h-[500px]">
+  <div className="text-white text-6xl font-bold">Loong.Academy</div>
+</div>
+
 
 
 
